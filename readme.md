@@ -52,6 +52,9 @@ Install this repository automatically via "Package Control" http://wbond.net/sub
  - The main loop inspired by sublimelint https://github.com/lunixbochs/sublimelint
  - The count inspired by the original WordCount plugin http://code.google.com/p/sublime-text-community-packages/source/browse/#svn%2Ftrunk%2FWordCount committed by mindfiresoftware
 
+## Alternative Online Tool
+ - [Word Count Tool](http://wordcounttools.com)
+
 ## Contributors
 
  - Hawken Rives
