@@ -61,3 +61,4 @@ Install this repository automatically via "Package Control" http://wbond.net/sub
  - Alex Galonsky
  - RikkiMongoose
  - ChrisJefferson
+ - Harry Ng. (From [Word Count Tool](http://wordcounttools.com/))
