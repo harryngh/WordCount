@@ -53,12 +53,14 @@ Install this repository automatically via "Package Control" http://wbond.net/sub
  - The count inspired by the original WordCount plugin http://code.google.com/p/sublime-text-community-packages/source/browse/#svn%2Ftrunk%2FWordCount committed by mindfiresoftware
 
 ## Contributors
-
- - Hawken Rives
- - Yaw Anokwa
- - James Brooks
- - Antony Male
- - Alex Galonsky
- - RikkiMongoose
- - ChrisJefferson
+ - [Tito Bouzout](https://github.com/titoBouzout)
+ - [Liam Cain](https://github.com/BoundInCode)
+ - [Lee Grey](https://github.com/leegrey)
+ - [Hawken Rives](https://github.com/hawkrives)
+ - [Yaw Anokwa](https://github.com/yanokwa)
+ - [James Brooks](https://github.com/jbrooksuk)
+ - [Antony Male](https://github.com/canton7)
+ - [Alex Galonsky](https://github.com/galonsky)
+ - [RikkiMongoose](https://github.com/RikkiMongoose)
+ - [ChrisJefferson](https://github.com/ChrisJefferson)
  - Harry Ng. (From [Word Count Tool](http://wordcounttools.com/))
