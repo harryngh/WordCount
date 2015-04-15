@@ -54,6 +54,7 @@ Install this repository automatically via "Package Control" http://wbond.net/sub
 
 ## Alternative Online Tool
  - [Word Count Tool](http://wordcounttools.com)
+ - [Character Count Tool](http://charactercounttool.com)
 
 ## Contributors
 
