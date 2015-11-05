@@ -53,8 +53,8 @@ Install this repository automatically via "Package Control" http://wbond.net/sub
  - The count inspired by the original WordCount plugin http://code.google.com/p/sublime-text-community-packages/source/browse/#svn%2Ftrunk%2FWordCount committed by mindfiresoftware
 
 ## Alternative Online Tool
- - [Word Count Tool](http://wordcounttools.com)
- - [Character Count Tool](http://charactercounttool.com)
+ - [Word Counter](http://wordcounttools.com)
+ - [Character Counter](http://charactercounttool.com)
 
 ## Contributors
 
